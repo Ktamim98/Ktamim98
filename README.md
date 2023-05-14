@@ -15,11 +15,7 @@ Computer science engineering graduate with a passion for mobile app development.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ktamim98)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ktamim98)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ktamim98&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ktamim98)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ktamim98)  
 
