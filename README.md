@@ -6,6 +6,7 @@ Computer science engineering graduate with a passion for mobile app development.
 - 🌱 I’m currently learning Swift & IOS Development 
 - 🤝 I’m looking to collaborate on IOS community 
 - 📫 How to reach me: tamim.ios98@gmail.com 
+- 💻 LinkedIn Profile: https://www.linkedin.com/in/tamimkhan98/
 
 ### Skills: 
 #### Familiar with:
